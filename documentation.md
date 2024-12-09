@@ -56,3 +56,12 @@ Configured ACLs to restrict access to the Administration VLAN (VLAN 30):
 
 Denied traffic from VLAN 10 (Engineering) and VLAN 20 (Sales) to VLAN 30.
 
+Allowed all other necessary traffic.
+
+Conclusion
+
+This project successfully implemented VLAN segmentation, inter-VLAN routing using ROAS, and centralized VLAN management with VTP. Security was enhanced by using ACLs to restrict unauthorized access to the administration network. The design ensures scalability, performance, and secure network access for the SOHO environment.
+
+This project successfully implemented VLAN segmentation, inter-VLAN routing using ROAS, and centralized VLAN management with VTP. Security was enhanced by using ACLs to restrict unauthorized access to the administration network. The design ensures scalability, performance, and secure network access for the SOHO environment.
+
+
